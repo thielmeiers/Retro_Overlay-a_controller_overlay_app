@@ -15,7 +15,8 @@ Disclaimer: I have only tested this with an Xbox Controller, I originally made t
 - 🧭 Adjustable margin  
 - 🔍 Adjustable transparency  
 - 🖥️ Multi-monitor support  
-- ⚡ Lightweight real-time rendering  
+- ⚡ Lightweight real-time rendering
+- 🤗 Runs completely independently of any game or app. It just forces the overlay to the front of whichever monitor.
 
 ---
 
