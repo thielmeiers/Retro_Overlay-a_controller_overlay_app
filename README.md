@@ -75,13 +75,13 @@ The overlay renders transparently over your selected monitor while remaining lig
 
 ## To run the actual overlay, all you need is the exe file in the dist folder
 
-## Clone the Repository and download python along with the necessary dependencies if you want to try to make your own controller layout, just leave it in the skins folder (same folder that default.py and gamecube.py are in).
+## Clone the Repository and download python along with the necessary dependencies if you want to try to make your own controller layout, just leave it in the skins folder (same folder that default.py and gamecube.py are in). Keep in mind you will need to rebuild the app, or get in contact with me on Discord at _Moyamoya_Boy_, and I can add your custom skin to the main build for future updates.
 
 # 📅✍️ Plans
 
 ## I honestly don't know how far I plan to take this right now, but I don't plan to stop adding things anytime soon.
 
-## Besides cleaning the code up some more, I am also working on a way to have the controller input control mouse movement, the testing code I have for that is in this version of the project. Just run the the python file directly from the cmd line to test. Keep in mind you will need to rebuild the app, or get in contact with me on Discord at _Moyamoya_Boy_, and I can add your custom skin to the main build for future updates.
+## Besides cleaning the code up some more, I am also working on a way to have the controller input control mouse movement, the testing code I have for that is in this version of the project. Just run the the python file directly from the cmd line to test. 
 
 ## Also, the set_primary.py is a helper program I wrote to quickly change my main desktop display and I added it here because I thought others would find it convenient.
 
