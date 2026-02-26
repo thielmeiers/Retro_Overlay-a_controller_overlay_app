@@ -7,8 +7,7 @@ Retro Overlay lets you display animated controller inputs on any monitor — per
 
 ## ✨ Features
 
-- 🎮 Multiple controller support  
-- 🎨 Custom skins (Default, GameCube)  
+- 🎮 Can overlay up to 4 controllers at once
 - 📍 Corner-based placement (UL / UR / LL / LR)  
 - 📏 Adjustable scale  
 - 🧭 Adjustable margin  
