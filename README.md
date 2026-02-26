@@ -1,7 +1,9 @@
 # 🎮 Retro Overlay
-A customizable, real-time controller overlay built in Python.
+Disclaimer: I have only tested this with an Xbox Controller, I originally made this for seeing what buttons I was pressing when emulating games.
 
-Retro Overlay lets you display animated controller inputs on any monitor — perfect for streaming, recording, emulator gameplay, tutorials, or personal setup customization.
+# A customizable & real-time-input controller overlay built in Python.
+# Retro Overlay lets you display animated controller inputs on any monitor.
+# Perfect for streaming, recording, emulator gameplay, tutorials, or personal setup customization.
 
 ---
 
@@ -53,13 +55,6 @@ Preview updates before launching.
 
 The overlay renders transparently over your selected monitor while remaining lightweight and responsive.
 
-Perfect for:
-
-- Gaming
-- Streaming
-- Recording
-- Input tutorials
-
 ---
 
 # ⚙️ Additional UI States
@@ -79,9 +74,9 @@ Perfect for:
 
 ## To run the actual overlay, all you need is the exe file in the dist folder
 
-## Clone the Repository and download python along with the necessary dependencies if you want to try to make your own controller overlay, just leave it in the skins folder (same folder that default.py and gamecube.py are in).
+## Clone the Repository and download python along with the necessary dependencies if you want to try to make your own controller layout, just leave it in the skins folder (same folder that default.py and gamecube.py are in).
 
-# Plans
+# 📅✍️ Plans
 
 ## I honestly don't know how far I plan to take this right now, but I don't plan to stop adding things anytime soon.
 
