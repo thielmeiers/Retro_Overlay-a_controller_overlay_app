@@ -84,4 +84,7 @@ Perfect for:
 # Plans
 
 ## I honestly don't know how far I plan to take this right now, but I don't plan to stop adding things anytime soon.
+
 ## Besides cleaning the code up some more, I am also working on a way to have the controller input control mouse movement, the testing code I have for that is in this version of the project. Just run the the python file directly from the cmd line to test.
+
+## Also, the set_primary.py is a helper program I wrote to quickly change my main desktop display and I added it here because I thought others would find it convenient.
