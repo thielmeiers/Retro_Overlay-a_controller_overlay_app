@@ -88,5 +88,5 @@ The overlay renders transparently over your selected monitor while remaining lig
 # 🏎️ Development Roadmap
 
 ## Getting controller_to_mouse.py functioning, and adding a toggle function to use it with overlay
-## Create more shpaes for easier gamepad skin creation.
+## Create more shapes for easier gamepad skin creation.
 ## Add a "Create your own" or " + " to the Skins tab to let users easily create their own without needing to program their own
