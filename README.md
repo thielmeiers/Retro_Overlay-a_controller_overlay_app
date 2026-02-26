@@ -81,6 +81,12 @@ The overlay renders transparently over your selected monitor while remaining lig
 
 ## I honestly don't know how far I plan to take this right now, but I don't plan to stop adding things anytime soon.
 
-## Besides cleaning the code up some more, I am also working on a way to have the controller input control mouse movement, the testing code I have for that is in this version of the project. Just run the the python file directly from the cmd line to test.
+## Besides cleaning the code up some more, I am also working on a way to have the controller input control mouse movement, the testing code I have for that is in this version of the project. Just run the the python file directly from the cmd line to test. Keep in mind you will need to rebuild the app, or get in contact with me on Discord at _Moyamoya_Boy_, and I can add your custom skin to the main build for future updates.
 
 ## Also, the set_primary.py is a helper program I wrote to quickly change my main desktop display and I added it here because I thought others would find it convenient.
+
+# Development Roadmap
+
+## Getting controller_to_mouse.py functioning, and adding a toggle function to use it with overlay
+## Create more shpaes for easier gamepad skin creation.
+## Add a "Create your own" or " + " to the Skins tab to let users easily create their own without needing to program their own
