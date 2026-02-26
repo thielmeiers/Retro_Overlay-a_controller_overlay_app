@@ -53,8 +53,8 @@ Preview updates before launching.
 # 🎥 Overlay Running (Emulator Example)
 
 ![Overlay Running](OVERLAY/screenshots/Live_Demo_Running_Emulator.png)
-
-The overlay renders transparently over your selected monitor while remaining lightweight and responsive.
+<p><em>Emulator: Dolphin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Game: SoulCaliber 2</em></p>
+<p>The overlay renders transparently over your selected monitor while remaining lightweight and responsive.</p>
 
 ---
 
