@@ -56,7 +56,7 @@ The overlay renders transparently over your selected monitor while remaining lig
 
 Perfect for:
 
-- Emulator gameplay
+- Gaming
 - Streaming
 - Recording
 - Input tutorials
