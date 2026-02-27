@@ -75,7 +75,7 @@ Preview updates before launching.
 
 ## To run the actual overlay, all you need is the exe file in the dist folder
 
-## Clone the Repository and download python along with the necessary dependencies if you want to try to make your own controller layout, just leave it in the skins folder (same folder that default.py and gamecube.py are in). Keep in mind you will need to rebuild the app, or get in contact with me on Discord at _Moyamoya_Boy_, and I can add your custom skin to the main build for future updates.
+## Clone the Repository and download python along with the necessary dependencies if you want to try to make your own controller layout, just leave it in the skins folder (same folder that default.py and gamecube.py are in). Keep in mind you will need to rebuild the app, or get in contact with me on Discord  @_Moyamoya_Boy_, and I can add your custom skin to the main build for future updates.
 
 # 📅✍️ Plans
 
@@ -87,6 +87,25 @@ Preview updates before launching.
 
 # 🏎️ Development Roadmap
 
+## Update Preview occurs anytime user changes a setting (remove the button basically)
+### > Core logic already there, just need to alter when the function needs to run
+
+## Create more skins
+### > Gonna do this as I'm working on the things below, probably will work on getting basic shapes created first to make this easier
+### > More skins coming whenever next major update to the overlay will happen
+
+## Test Playstation and Switch controllers with program and debug if neccessary for those.
+### > Just got to get the controllers from my siblings
+
 ## Getting controller_to_mouse.py functioning, and adding a toggle function to use it with overlay
+### > I just want to do this, has nothing to do with overlay but is a function I think most users would like.
+
 ## Create more shapes for easier gamepad skin creation.
+### > First create more standard shapes, then more complex
+### > Idea is for user to swap out button shapes with prebuilt ones in controller designer
+
 ## Add a "Create your own" or " + " to the Skins tab to let users easily create their own without needing to program their own
+### > a button mapping subprogram for users to test their controllers input codes, and match buttons to those codes (for users who use emulator specific controllers [e.g. Standard Joysticks, Gamecube, Wii])
+### > a way for users to "say" which button codes trigger which buttons on the overlay.  → Easier controller design is the end goal here
+
+## IF YOU HAVE ANY SUGGESTIONS MESSAGE ME ON DISCORD @MOYAMOYA_BOY
