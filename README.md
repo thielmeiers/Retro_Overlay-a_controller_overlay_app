@@ -1,6 +1,6 @@
 # 🎮 Retro Overlay
-Disclaimer: Overlay will only work when application is not taking over the display (e.g. games being displayed in fullscreen). Will work for applications set to "Borderless Window." I have also only tested this with an Xbox Controller, I originally made this for seeing what buttons I was pressing when emulating games.
-Disclaimer (edit): I have tested a Playstation Controller, analog sticks, standard buttons, and L2 & R2 work acurately; D-pad and L1 & R1 are not. Working on a way for users to set custom configurations to get around this.
+<p>Disclaimer: Overlay will only work when application is not taking over the display (e.g. games being displayed in fullscreen). Will work for applications set to "Borderless Window." I have also only tested this with an Xbox Controller, I originally made this for seeing what buttons I was pressing when emulating games.</p>
+<p>Disclaimer (edit): I have tested a Playstation Controller, analog sticks, standard buttons, and L2 & R2 work acurately; D-pad and L1 & R1 are not. Working on a way for users to set custom configurations to get around this.</p>
 
 # A customizable & real-time-input controller overlay built in Python.
 # Retro Overlay lets you display animated controller inputs on any monitor.
